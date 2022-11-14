@@ -1,6 +1,6 @@
 # Internship
-Genzel Lab (Dr Lisa Genzel)
-Donders Institute for Brain, Cognition and Behaviour
+Genzel Lab (Dr Lisa Genzel)  
+Donders Institute for Brain, Cognition and Behaviour  
 Radboud University
 
 ## Object Space Tracking
